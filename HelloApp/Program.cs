@@ -5,3 +5,8 @@ void greetWhite()
 {
     Console.WriteLine("Hello white");
 }
+
+void greetBlack()
+{
+    Console.WriteLine("Hello black");
+}
